@@ -277,8 +277,6 @@ import argparse
 import torch
 
 import os
-os.environ["HF_HOME"]            = "/mimer/NOBACKUP/groups/naiss2024-22-1298/Adnan/hf_cache"
-os.environ["TRANSFORMERS_CACHE"] = "/mimer/NOBACKUP/groups/naiss2024-22-1298/Adnan/hf_cache"
 
 # ONLY import transformers AFTER setting the env vars above
 from transformers import GPT2LMHeadModel, GPT2TokenizerFast
