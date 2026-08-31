@@ -4,7 +4,11 @@
 
 This repository documents the end-to-end development of a GPT-style Large Language Model (LLM) built from scratch — covering tokenization, causal and sliding-window attention, pretraining, fine-tuning, instruction-tuning, and fairness evaluation.
 
-Reference notebook: [Causal Self-Attention on Kaggle](https://www.kaggle.com/code/aisuko/causal-self-attention)
+Reference notebooks: 
+
+https://github.com/rasbt/LLMs-from-scratch 
+
+https://www.kaggle.com/code/aisuko/causal-self-attention
 
 ---
 
