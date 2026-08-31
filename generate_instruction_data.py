@@ -4,8 +4,7 @@ import json
 import random
 import requests
 
-os.environ["HF_HOME"]            = "/mimer/NOBACKUP/groups/naiss2024-22-1298/Adnan/hf_cache"
-os.environ["TRANSFORMERS_CACHE"] = "/mimer/NOBACKUP/groups/naiss2024-22-1298/Adnan/hf_cache"
+
 
 # ═══════════════════════════════════════════════════════════════════════════════
 #  Download Gutenberg books
