@@ -20,4 +20,6 @@
 - **Exp9 (Instruction-tuned):** Successfully follows factual/creative instructions but hallucinates on knowledge queries (e.g., fabricated Sherlock Holmes biography).
 - **Exp10 (Regularized instruction-tuned):** Improved fluency; hallucination and stylistic bleeding reduced but not eliminated.
 
-> Add your actual loss-curve PNGs to `/assets/` and embed with `![Exp7 Loss](assets/exp7_loss.png)`.
+## EXP1
+<img width="758" height="227" alt="image" src="https://github.com/user-attachments/assets/104aa84c-6096-4511-8a9f-657d6cbc9afe" />
+
